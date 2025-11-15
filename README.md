@@ -4,21 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souayah-malek12&label=Profile%20views&color=0e75b6&style=flat" alt="souayah-malek12" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&lines=Full+Stack+Developer+🛠️;AI+Agent+Architect+🤖;Building+Modern+Web+Apps...🚀" alt="Typing SVG" /> 
+</p>
+
+---
+
+## 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/souayah malek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souayah malek" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/drx1malek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drx1malek" height="30" width="40" /></a>
 </p>
 
-<p align="left"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&lines=Full+Stack+Developer+🛠️;AI+Agent+Architect+🤖;Building+Modern+Web+Apps...🚀" alt="Typing SVG" /> 
-</p>
+---
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souayah-malek12&theme=radical&no-frame=true&column=3" alt="GitHub Trophies" /></a>
-</p>
-
-<h3 align="left">Languages, Frameworks, and Tools:</h3>
+## 🛠️ Languages, Frameworks, and Tools
 <p align="left"> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/ai.png" alt="Agentic AI" width="40" height="40"/> </a>
     <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langchain_logo.png" alt="LangChain" width="40" height="40"/> </a>
@@ -38,8 +38,18 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souayah-malek12&show_icons=true&locale=en&layout=compact" alt="souayah-malek12" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souayah-malek12&show_icons=true&locale=en" alt="souayah-malek12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souayah-malek12&" alt="souayah-malek12" /></p>
+## 📈 GitHub Stats and Activity
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souayah-malek12&theme=radical&no-frame=true&column=3" alt="GitHub Trophies" /></a>
+</p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souayah-malek12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=souayah-malek12&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souayah-malek12&" alt="GitHub Streak" />
+</p>
