@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Souayah Malek</h1>
 <h3 align="center">A passionate Full Stack developer and AI Enthusiast</h3>
-
-<img align="right" alt="AI Agent Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF1cG9iZzJmMTF1ZmI1cDMzcmN5bHdjNTlqYjB1cG41eDVsMGJ3ayZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/Q52t3lGvj3H76/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souayah-malek12&label=Profile%20views&color=0e75b6&style=flat" alt="souayah-malek12" /> </p>
 
