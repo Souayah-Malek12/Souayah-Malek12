@@ -10,13 +10,12 @@
 <a href="https://www.leetcode.com/drx1malek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drx1malek" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Development Activity:</h3>
-<p align="left">
-    <a href="https://wakatime.com/@souayah-malek12"><img src="https://wakatime.com/badge/user/10499696-2673-45f8-8422-498c39241b71.svg" alt="WakaTime hours spent coding" /></a>
+<p align="left"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F700FF&lines=Full+Stack+Developer+🛠️;AI+Agent+Architect+🤖;Building+Modern+Web+Apps...🚀" alt="Typing SVG" /> 
 </p>
 
-<p align="left"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Agent+Architect;Backend+Engineer;Frontend+Specialist" alt="Typing SVG" /> 
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souayah-malek12&theme=radical&no-frame=true&column=3" alt="GitHub Trophies" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks, and Tools:</h3>
