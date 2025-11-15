@@ -10,6 +10,15 @@
 <a href="https://www.leetcode.com/drx1malek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drx1malek" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My Development Activity:</h3>
+<p align="left">
+    <a href="https://wakatime.com/@souayah-malek12"><img src="https://wakatime.com/badge/user/10499696-2673-45f8-8422-498c39241b71.svg" alt="WakaTime hours spent coding" /></a>
+</p>
+
+<p align="left"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Agent+Architect;Backend+Engineer;Frontend+Specialist" alt="Typing SVG" /> 
+</p>
+
 <h3 align="left">Languages, Frameworks, and Tools:</h3>
 <p align="left"> 
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/ai.png" alt="Agentic AI" width="40" height="40"/> </a>
